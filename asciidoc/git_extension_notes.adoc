@@ -1,0 +1,7 @@
+= Git Asciidoctor Extension
+
+Use Commitate. Commitate should be usable with any kinds of extension, so long
+as the API is adhered to. It wants, filename, commit sha, line numbers, etc.
+
+Use Rugged to extract objects from the repo. See
+~/code/spikes/gitdown-spike/example.rb
